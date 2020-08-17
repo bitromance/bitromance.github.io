@@ -2,7 +2,7 @@
 
 2. 插入希岛爱理的图片。
 
-   <img src="https://img.shields.io/badge/node-%3E=10.9.0-green?style=flat-square">
+   <img src="https://github.com/bitromance/bitromance.github.io/blob/master/img/Edm4wsdUEAA3p7Q.jpg">
 
    插入成功
 
