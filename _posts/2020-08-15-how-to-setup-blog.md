@@ -6,7 +6,7 @@
 
    
 
-   ![艾莉图](images/Edm4wsdUEAA3p7Q.jpg)
+   ![艾莉图](images/1.png)
 
    插入成功
 
