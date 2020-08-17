@@ -2,7 +2,7 @@
 
 2. 插入希岛爱理的图片。
 
-   ![Edm4wsdUEAA3p7Q](Edm4wsdUEAA3p7Q.jpg)
+   <img src="https://github.com/bitromance/bitromance.github.io/blob/master/img/Edm4wsdUEAA3p7Q.jpg">
 
    插入成功
 
