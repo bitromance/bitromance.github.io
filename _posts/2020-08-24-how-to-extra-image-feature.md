@@ -22,7 +22,9 @@
 物理意义是平面上任意两条线，经过变换后，还是保持原来的状态。（可以理解成，原来两条线是平行的，变换后还是平行的）可以看成画面的拉伸或者缩放。
 ```
 
-![仿射变换](%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2.png)
+![仿射变换]<img src="img src="https://github.com/bitromance/bitromance.github.io/blob/master/img/仿射变换.png">
+
+![仿射变换](images/仿射变换.png)
 
 ### 1.3 局部特征
 
